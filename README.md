@@ -57,6 +57,8 @@ Prediction is based on:
 - **Data Collection**:  
   Data is collected through **web scraping** from the most popular real estate platforms in Uzbekistan. Thousands of listings are scraped regularly to ensure the model reflects current market trends.
 
+  - 🔒 Privacy Notice: For privacy and compliance reasons, the raw data collected and the dataset used for training cannot be shared in this repository.
+
 - **Data Cleaning**:  
   - 📍 **Micro-level location identification**: Neighborhoods (mahallas) are extracted from ad descriptions using NLP techniques to ensure geographic precision.  
   - 🧼 **Standardization of features**: Property attributes such as floor level, area, layout, and price are standardized across listings with inconsistent formats.  
