@@ -21,7 +21,7 @@ from dash import ctx
 ####################################################################################
 unique_mahalla_olx = pd.read_csv('data/unique_mahalla_olx.csv')
 uybor_cols=pd.read_csv('data/uybor_columns.csv')
-mahalla_and_tuman=pd.read_csv('data\mahalla_tuman_codes.csv')
+mahalla_and_tuman=pd.read_csv('data/mahalla_tuman_codes.csv')
 # df = pd.read_csv(r'data\olx_data.csv')
 model1 = joblib.load('data/GBM_MODEL_WITHOUT_DISTANCE.pkl')
 model2 = joblib.load('data/model2.pkl')
