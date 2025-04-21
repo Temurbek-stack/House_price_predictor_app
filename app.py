@@ -36,19 +36,11 @@ current_year = datetime.now().year
 
 print(f"Current Month: {current_month}, Current Year: {current_year}")
 
-# df['month_and_year'] = pd.to_datetime(df['month_and_year'], format='%b-%y').dt.strftime('%m-%Y')
-# df['month_and_year'] = pd.to_datetime(df['month_and_year'], format='%m-%Y')
-# df_sorted = df.sort_values(by='month_and_year')
-# df_sorted['price_per_sq'] = df_sorted['price1']/df_sorted['sqrm1']
-
 my_dict = {}
 
 for key in X.columns:
     if key != 'Unnamed: 0':
         my_dict[key]=0
-#########################
-# my_dict_xls = pd.DataFrame().from_dict(my_dict)
-# my_dict_xls.to_excel('my_dict_xls.xlsx')
 
 importances = model1.feature_importance()
 # print(len(importances))
@@ -65,13 +57,6 @@ barh.update_layout(
     )
 barh.update_xaxes(showgrid=True, gridcolor='lightblue', gridwidth=1, griddash='dash')
 barh.update_yaxes(showgrid=True, gridcolor='lightblue', gridwidth=1, griddash='dash')
-
-#########################
-
-# avg_price = df_sorted.groupby(['month_and_year', 'Type of housing'])['price1'].mean().reset_index()
-# countOfposting = df_sorted.groupby(['month_and_year', 'Type of housing']).size().reset_index(name='count')
-# aggregated_df = df_sorted.groupby(['Количество комнат:', 'Type of housing']).size().reset_index(name='count')
-
 
 ####################################################################################
 ####################################################################################
@@ -837,39 +822,6 @@ prediction = dbc.Row([
 
 
 
-
-####################################################################################################
-####################################################################################################
-
-# overview = dbc.Row([
-#     html.Div([
-#         html.Div([
-#             html.Iframe(
-#                 src="https://app.powerbi.com/view?r=eyJrIjoiZWUxMTBlNDYtN2E4NS00MmM3LTgwMTItZTBmMjcwNDMxYjI5IiwidCI6ImI1OGVhYjJiLTA1YzYtNDcxYi1hYWRhLWNiNjMwY2MyMDJkYyIsImMiOjEwfQ%3D%3D",
-#                 style={
-#                     'width': '100%',
-#                     'height': '85vh',
-#                     'border': 'none',
-#                     'borderRadius': '10px',
-#                     'backgroundColor': 'white'
-#                 }
-#             )
-#         ], className='custom-opensauce', style={
-#             'maxWidth': '1200px',
-#             'margin': '0 auto',
-#             'padding': '40px',
-#             'backgroundColor': 'white',
-#             'borderRadius': '10px',
-#             'marginTop': '20px',
-#             'marginBottom': '40px'
-#         })
-#     ], style={
-#         'backgroundColor': 'white',
-#         'minHeight': '100vh',
-#         'padding': '20px',
-#         'width': '100%'
-#     })
-# ])
 
 ####################################################################################################
 ####################################################################################################
