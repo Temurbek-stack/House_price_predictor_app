@@ -21,7 +21,6 @@ An interactive, ML-powered web platform that allows users to **predict the marke
 - `pandas` for data processing  
 - `joblib` for loading trained models  
 - `FPDF` for report generation  
-- Deployed on [Render.com](https://render.com)  
 
 ---
 
