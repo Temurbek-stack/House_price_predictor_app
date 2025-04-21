@@ -1,0 +1,345 @@
+/* Increase width of square buttons */
+.btn-outline-primary {
+    width: 150px; /* Adjust as needed */
+    text-align: center;
+    height: 35px; 
+    /*padding: 10px 20px; */
+    border: 2px solid #007bff;
+    border-radius: 5px; /* Square shape */
+    /*font-weight: bold;*/
+}
+
+/* Ensure dropdown placeholders match input placeholders */
+.Select-placeholder {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important; /* Ensure same weight */
+    color: gray !important;
+    font-style: normal !important; /* Change to italic if needed */
+    opacity: 1 !important; /* Ensures visibility consistency */
+}
+
+/* Ensure text input placeholders are identical */
+input::placeholder {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important; /* Ensure same weight */
+    color: gray !important;
+    font-style: normal !important; /* Change to italic if needed */
+    opacity: 1 !important; /* Ensures visibility consistency */
+}
+
+input {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    color: black !important; /* Change color if needed */
+    font-style: normal !important;
+}
+
+select-input {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    color: black !important; /* Change color if needed */
+    font-style: normal !important;
+}
+
+body {
+    margin: 1rem;
+    font-family: system-ui;
+    /*font-size: 1.125rem;*/
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.house-info {
+    --_br: 1rem;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr auto 1fr;
+    max-width: 30rem;
+    position: relative;
+}
+
+.house-image {
+    grid-row: 1 / 3;
+    grid-column: 1 / 3;
+    border-radius: var(--_br);
+    overflow: hidden;
+}
+.btn-group .btn {
+    border-radius: 30px !important;
+}
+
+.btn-group .btn {
+    border-radius: 30px !important;
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    font-style: normal !important; /* Set to italic if needed */
+}
+
+.house-image::before,
+.house-image::after,
+.house-price::after {
+    --_size: var(--_br);
+    content: "";
+    position: absolute;
+    width: var(--_size);
+    aspect-ratio: 1;
+    background-image: radial-gradient(
+        circle at 100% 100%,
+        transparent var(--_size),
+        var(--_corner-color, white) calc(var(--_size) + 1px)
+    );
+    rotate: -90deg;
+}
+
+.house-image::before {
+    left: 0;
+    bottom: 0;
+    grid-column: 2;
+    grid-row: 2 / 3;
+}
+
+.house-image::after {
+    left: 0;
+    bottom: 0;
+    grid-column: 1;
+    grid-row: 1 / 2;
+    box-shadow: -1rem 0 0 white;
+}
+
+.house-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.house-price {
+    display: grid;
+    /*padding: 1rem 1rem 0 1rem;*/
+    background: #00004d;
+    font-weight: 500;
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+    border-radius: var(--_br) var(--_br) 0 0;
+    box-shadow: 0 1rem 0 #00004d, 0 0 0 1rem white;
+}
+
+.house-price::after {
+    --_size: calc(var(--_br) * 1.5);
+    --_corner-color: #00004d;
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    left: -1rem;
+    bottom: -1rem;
+}
+
+.house-price span {
+    display: grid;
+    place-items: center;
+    background: white;
+    padding: 0.75rem 0;
+    border-radius: calc(var(--_br) / 2);
+}
+
+.house-meta {
+    margin: 0;
+    background: #00004d;
+    color: white;
+    grid-row: 3 / 4;
+    grid-column: 1 / 3;
+    /*font-size: 1.25rem;*/
+    line-height: 1.8;
+    padding-top: 1rem;
+    border-radius: 0 var(--_br) var(--_br) var(--_br);
+    text-align: left;  /* Ensure text is aligned to the left */
+    padding-left: 2rem;  /* Add some padding if needed */
+}
+
+.Select-value-label {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    color: black !important;
+}
+
+
+.Select-input input {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    color: black !important;
+}
+
+.Select-menu-outer {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+}
+
+.Select-option {
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    /* Stack input groups vertically on mobile */
+    .input-group {
+        flex-direction: column;
+    }
+
+    /* Adjust input and dropdown styles for mobile */
+    input, .Select {
+        width: 100% !important;
+        margin-bottom: 10px;
+    }
+
+    /* Make all inputs have full rounded corners on mobile */
+    /*input, .Select-control {
+        border-radius: 30px !important;
+    }
+
+    /* Reset border-radius for paired inputs on mobile */
+    /*input + input,
+    .Select + .Select {
+        border-left: 1px solid #ccc !important;
+    }
+
+    /* Adjust button width for mobile */
+    .btn {
+        width: 100% !important;
+        max-width: 200px !important;
+        margin: 10px auto !important;
+    }
+
+    /* Adjust card padding for mobile */
+    .card {
+        padding: 15px !important;
+    }
+
+    /* Adjust text sizes for mobile */
+    h1, h2, h3, h4 {
+        font-size: 90% !important;
+    }
+
+    /* Adjust spacing between elements */
+    .mb-4 {
+        margin-bottom: 1rem !important;
+    }
+
+    /* Make the spinner container smaller on mobile */
+    .spinner-container {
+        min-height: 100px !important;
+    }
+}
+
+/* Tablet specific adjustments */
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* Adjust container padding for tablets */
+    .container-fluid {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+
+    /* Adjust card spacing for tablets */
+    .card {
+        margin-bottom: 20px !important;
+    }
+
+    /* Adjust text sizes for tablets */
+    h1, h2, h3, h4 {
+        font-size: 95% !important;
+    }
+}
+
+/* General responsive improvements */
+.custom-opensauce {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+/* Make radio buttons more touch-friendly */
+.btn-group > .btn {
+    padding: 10px 15px !important;
+    min-height: 44px !important;  /* Minimum touch target size */
+}
+
+/* Improve dropdown menu usability on mobile */
+.Select-menu-outer {
+    max-height: 50vh !important;  /* Limit dropdown height on mobile */
+}
+
+/* Make the fixed header responsive */
+.fixed-header {
+    padding: 10px !important;
+}
+
+/* Adjust logo size for mobile */
+.fixed-header img {
+    max-width: 150px !important;
+    height: auto !important;
+}
+
+/* Improve tab navigation on mobile */
+.custom-tab {
+    padding: 10px !important;
+    font-size: 14px !important;
+}
+
+/* Ensure proper spacing for error messages */
+.error-message {
+    margin: 10px 0 !important;
+    font-size: 14px !important;
+}
+
+/* Improve spacing between form elements */
+.form-group {
+    margin-bottom: 15px !important;
+}
+
+/* Make sure buttons are easily tappable */
+button, 
+.btn,
+input[type="submit"] {
+    min-height: 44px !important;
+    min-width: 44px !important;
+    padding: 10px 20px !important;
+}
+
+/* Ensure proper text wrapping */
+* {
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+}
+
+/* Improve form field readability on mobile */
+input, select, textarea {
+    font-size: 14px !important;  /* Prevent zoom on iOS */
+}
+
+.radio-group-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Space between buttons */
+}
+
+.radio-group-wrapper .btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.radio-group-wrapper .btn-group label {
+    flex: 1 1 calc(33.33% - 10px); /* Each button takes 1/3 of the width */
+    text-align: center;
+    margin-bottom: 5px; /* Add some spacing between rows */
+}

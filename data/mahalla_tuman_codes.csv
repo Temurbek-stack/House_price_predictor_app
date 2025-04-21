@@ -1,0 +1,586 @@
+district_str,neighborhood_latin,neighborhood_str,neighborhood_code,district_code
+Bektemir tumani,Abay mahallasi,Абай махалля,0,0
+Bektemir tumani,Mirishkor mahallasi,Миришкор махалля,290,0
+Bektemir tumani,Oltintopgan mahallasi,Олтинтопган махалля,346,0
+Bektemir tumani,Husayn Boyqaro mahallasi,Хусайн Бойкаро махалля,192,0
+Bektemir tumani,Rohat mahallasi,Рохат махалля,407,0
+Bektemir tumani,Zabardast mahallasi,Забардаст махалля,567,0
+Bektemir tumani,Musaffo mahallasi,Мусаффо махалля,305,0
+Bektemir tumani,Sohil mahallasi,Сохил махалля,452,0
+Bektemir tumani,Zilola mahallasi,Зилола махалля,578,0
+Bektemir tumani,Nurafshon mahallasi,Нурафшон махалля,327,0
+Bektemir tumani,Nurliyo‘l mahallasi,Нурлийул махалля,329,0
+Bektemir tumani,Gulbog' mahallasi,Гулбог махалля,163,0
+Bektemir tumani,Iykota mahallasi,Ийкота махалля,213,0
+Bektemir tumani,Majnuntol mahallasi,Мажнунтол махалля,274,0
+Bektemir tumani,Chashma mahallasi,Чашма махалля,103,0
+Bektemir tumani,Bektemir mahallasi,Бектемир махалля,49,0
+Bektemir tumani,Ustozlar mahallasi,Устозлар махалля,493,0
+Bektemir tumani,Iqbol mahallasi,Икбол махалля,204,0
+Chilonzor tumani,Al-Xorazmiy mahallasi,Ал-Хоразмий махалля,19,1
+Chilonzor tumani,Gavhar mahallasi,Гавхар махалля,159,1
+Chilonzor tumani,Bo‘rijar mahallasi,Бурижар махалля,87,1
+Chilonzor tumani,Guliston mahallasi,Гулистон махалля,165,1
+Chilonzor tumani,Tirsakobod mahallasi,Тирсакобод махалля,472,1
+Chilonzor tumani,Bekto'pi mahallasi,Бектупи махалля,50,1
+Chilonzor tumani,Beshqo‘rg‘on mahallasi,Бешкургон махалля,59,1
+Chilonzor tumani,Lutfiy mahallasi,Лутфий махалля,270,1
+Chilonzor tumani,Sharq mahallasi,Шарк махалля,428,1
+Chilonzor tumani,Yakkabog‘ mahallasi,Яккабог махалля,519,1
+Chilonzor tumani,Charx Kamolon-3 mahallasi,Чарх Камолон-3 махалля,101,1
+Chilonzor tumani,Dilobod mahallasi,Дилобод махалля,129,1
+Chilonzor tumani,Katta Qozirabot mahallasi,Катта Козирaбот махалля,243,1
+Chilonzor tumani,Beshchinor mahallasi,Бешчинор махалля,56,1
+Chilonzor tumani,Xayrobod mahallasi,Хайробод махалля,504,1
+Chilonzor tumani,Xonto'pi mahallasi,Хонтупи махалля,513,1
+Chilonzor tumani,Katta Chilonzor-2 mahallasi,Катта Чилонзор-2 махалля,231,1
+Chilonzor tumani,Bog‘zor mahallasi,Богзор махалля,82,1
+Chilonzor tumani,Bahoriston mahallasi,Бахористон махалля,39,1
+Chilonzor tumani,Yakkatut mahallasi,Яккатут махалля,521,1
+Chilonzor tumani,Do‘mbirobod mahallasi,Думбиробод махалля,135,1
+Chilonzor tumani,Katta Do‘mbirobod mahallasi,Катта Думбиробод махалля,234,1
+Chilonzor tumani,Zarqo'rg'on mahallasi,Заркургон махалля,577,1
+Chilonzor tumani,Qatortol-2 mahallasi,Катортол-2 махалля,382,1
+Chilonzor tumani,Ko‘tarma mahallasi,Кутарма махалля,264,1
+Chilonzor tumani,Katta Xirmontepa mahallasi,Катта Хирмонтепа махалля,245,1
+Chilonzor tumani,Katta Chilonzor-1 mahallasi,Катта Чилонзор-1 махалля,230,1
+Chilonzor tumani,Katta Navbahor mahallasi,Катта Навбахор махалля,237,1
+Chilonzor tumani,Mehrjon mahallasi,Мехржон махалля,283,1
+Chilonzor tumani,Chilonzor-Oqtepa mahallasi,Чилонзар-Октепа махалля,107,1
+Chilonzor tumani,Navbahor mahallasi,Навбахор махалля,312,1
+Chilonzor tumani,Mevazor mahallasi,Мевазор махалля,285,1
+Chilonzor tumani,Katta Olmazor mahallasi,Катта Олмазор махалля,238,1
+Chilonzor tumani,Fidokor mahallasi,Фидокор махалля,152,1
+Chilonzor tumani,Xalqlar do‘stligi mahallasi,Халклар дустлиги махалля,502,1
+Chilonzor tumani,Sharq tongi mahallasi,Шарк тонги махалля,429,1
+Chilonzor tumani,Charx Kamolon-2 mahallasi,Чарх Камолон-2 махалля,100,1
+Chilonzor tumani,Sharaf mahallasi,Шараф махалля,424,1
+Chilonzor tumani,Xirmontepa mahallasi,Хирмонтепа махалля,505,1
+Chilonzor tumani,Botirma mahallasi,Ботирма махалля,84,1
+Chilonzor tumani,Kichik Xirmontepa mahallasi,Кичик Хирмонтепа махалля,252,1
+Chilonzor tumani,Nafosat mahallasi,Нафосат махалля,309,1
+Chilonzor tumani,Naqqoshlik mahallasi,Наккошлик махалля,311,1
+Chilonzor tumani,Qatortol mahallasi,Катортол махалля,380,1
+Chilonzor tumani,Shuhrat mahallasi,Шухрат махалля,446,1
+Chilonzor tumani,Cho‘ponota mahallasi,Чупонота махалля,119,1
+Chilonzor tumani,Qatortol-1 mahallasi,Катортол-1 махалля,381,1
+Chilonzor tumani,Beshyog'och mahallasi,Бешёгоч махалля,60,1
+Chilonzor tumani,Chilonzor mahallasi,Чилонзор махалля,106,1
+Chilonzor tumani,Novza mahallasi,Новза махалля,325,1
+Chilonzor tumani,Charx Kamolon-1 mahallasi,Чарх Камолон-1 махалля,99,1
+Chilonzor tumani,Ko'rkam mahallasi,Куркам махалля,253,1
+Chilonzor tumani,Diyor mahallasi,Диёр махалля,131,1
+Chilonzor tumani,Qozirabot mahallasi,Козиработ махалля,392,1
+Chilonzor tumani,Katta Chilonzor-3 mahallasi,Катта Чилонзор-3 махалля,232,1
+Mirobod tumani,Bayot mahallasi,Баёт махалля,45,2
+Mirobod tumani,Tong yulduzi mahallasi,Тонг юлдузи махалля,475,2
+Mirobod tumani,Yangi Qo‘yliq mahallasi,Янги Куйлик махалля,534,2
+Mirobod tumani,Mirobod mahallasi,Миробод махалля,291,2
+Mirobod tumani,Qo‘yliqota mahallasi,Куйликота махалля,396,2
+Mirobod tumani,Sariko‘l mahallasi,Сарикул махалля,412,2
+Mirobod tumani,Qorasuv mahallasi,Корасув махалля,388,2
+Mirobod tumani,Navro'z mahallasi,Навруз махалля,315,2
+Mirobod tumani,Baynalmilal mahallasi,Байналмилал махалля,44,2
+Mirobod tumani,Parvona mahallasi,Парвона махалля,369,2
+Mirobod tumani,Temiryo‘lchilar mahallasi,Темирйулчилар махалля,464,2
+Mirobod tumani,Movarounnahr mahallasi,Мовароуннахр махалля,298,2
+Mirobod tumani,Abdulla Avloniy mahallasi,Абдулла Авлоний махалля,1,2
+Mirobod tumani,Oquy mahallasi,Окуй махалля,353,2
+Mirobod tumani,Afrosiyob mahallasi,Афросиёб махалля,8,2
+Mirobod tumani,At-Termiziy mahallasi,Ат-Термизий махалля,34,2
+Mirobod tumani,Yangi Mirobod mahallasi,Янги Миробод махалля,532,2
+Mirobod tumani,Tolariq mahallasi,Толарик махалля,473,2
+Mirobod tumani,Farovon mahallasi,Фаровон махалля,147,2
+Mirobod tumani,Oybek mahallasi,Ойбек махалля,358,2
+Mirobod tumani,Sharof Rashidov mahallasi,Шароф Рашидов махалля,425,2
+Mirobod tumani,Ziyonur mahallasi,Зиёнур махалля,583,2
+Mirobod tumani,Lolazor mahallasi,Лолазор махалля,269,2
+Mirobod tumani,Zaminobod mahallasi,Заминобод махалля,570,2
+Mirobod tumani,Barotxo‘ja mahallasi,Баротхужа махалля,43,2
+Mirobod tumani,Banokatiy mahallasi,Банокатий махалля,40,2
+Mirobod tumani,Chinor mahallasi,Чинор махалля,113,2
+Mirobod tumani,Birodarlik mahallasi,Биродарлик махалля,67,2
+Mirobod tumani,Bilimdon mahallasi,Билимдон махалля,61,2
+Mirobod tumani,Abdurauf Fitrat mahallasi,Абдурауф Фитрат махалля,4,2
+Mirobod tumani,Yangizamon mahallasi,Янгизамон махалля,550,2
+Mirobod tumani,Mingo‘rik mahallasi,Мингурик махалля,288,2
+Mirobod tumani,Oltinko'l mahallasi,Олтинкул махалля,343,2
+Mirobod tumani,Inoqobod mahallasi,Инокобод махалля,202,2
+Mirobod tumani,Salor mahallasi,Салор махалля,409,2
+Mirobod tumani,Fayziobod mahallasi,Файзиобод махалля,148,2
+Mirobod tumani,Furqat mahallasi,Фуркат махалля,156,2
+Mirobod tumani,Istiqlolobod mahallasi,Истиклолобод махалля,210,2
+Mirobod tumani,Yuksalish mahallasi,Юксалиш махалля,557,2
+Mirzo Ulug'bek tumani,Olimlar mahallasi,Олимлар махалля,337,3
+Mirzo Ulug'bek tumani,Ahillik mahallasi,Ахиллик махалля,10,3
+Mirzo Ulug'bek tumani,Asaka mahallasi,Асака махалля,30,3
+Mirzo Ulug'bek tumani,Mirzakalon Ismoiliy mahallasi,Мирзакалон Исмоилий махалля,292,3
+Mirzo Ulug'bek tumani,Oqqo'rg'on mahallasi,Оккургон махалля,351,3
+Mirzo Ulug'bek tumani,Buyuk ipak yo‘li mahallasi,Буюк ипак йули махалля,94,3
+Mirzo Ulug'bek tumani,Ulug'bek mahallasi,Улугбек махалля,489,3
+Mirzo Ulug'bek tumani,Oydin mahallasi,Ойдин махалля,359,3
+Mirzo Ulug'bek tumani,Yangi Avayxon mahallasi,Янги Авайхон махалля,523,3
+Mirzo Ulug'bek tumani,Bog‘imaydon mahallasi,Богимайдон махалля,76,3
+Mirzo Ulug'bek tumani,Oqibat mahallasi,Окибат махалля,348,3
+Mirzo Ulug'bek tumani,Darxon mahallasi,Дархон махалля,123,3
+Mirzo Ulug'bek tumani,Bo‘z mahallasi,Буз махалля,89,3
+Mirzo Ulug'bek tumani,Shahrisabz mahallasi,Шахрисабз махалля,421,3
+Mirzo Ulug'bek tumani,Habib Abdullayev mahallasi,Хабиб Абдуллаев махалля,176,3
+Mirzo Ulug'bek tumani,Katta Qorasuv mahallasi,Катта Корасув махалля,242,3
+Mirzo Ulug'bek tumani,Shalola mahallasi,Шалола махалля,423,3
+Mirzo Ulug'bek tumani,Lashkarbegi mahallasi,Лашкарбеги махалля,267,3
+Mirzo Ulug'bek tumani,Gulsanam mahallasi,Гулсанам махалля,167,3
+Mirzo Ulug'bek tumani,Sultoniya mahallasi,Султония махалля,454,3
+Mirzo Ulug'bek tumani,Chimyon mahallasi,Чимён махалля,110,3
+Mirzo Ulug'bek tumani,Shukur Burhonov mahallasi,Шукур Бурхонов махалля,448,3
+Mirzo Ulug'bek tumani,Ijodkor mahallasi,Ижодкор махалля,199,3
+Mirzo Ulug'bek tumani,Oliyhimmat mahallasi,Олийхиммат махалля,339,3
+Mirzo Ulug'bek tumani,Sho'rtepa mahallasi,Шуртепа махалля,436,3
+Mirzo Ulug'bek tumani,Mustaqillik mahallasi,Мустакиллик махалля,307,3
+Mirzo Ulug'bek tumani,Jasorat mahallasi,Джасорат махалля,221,3
+Mirzo Ulug'bek tumani,Traktorsozlar mahallasi,Тракторсозлар махалля,480,3
+Mirzo Ulug'bek tumani,Olmachi mahallasi,Олмачи махалля,340,3
+Mirzo Ulug'bek tumani,Al-Forobiy mahallasi,Ал-Форобий махалля,18,3
+Mirzo Ulug'bek tumani,Yalang'och mahallasi,Ялангоч махалля,522,3
+Mirzo Ulug'bek tumani,Navnihol mahallasi,Навнихол махалля,313,3
+Mirzo Ulug'bek tumani,Shahriobod mahallasi,Шахриобод махалля,420,3
+Mirzo Ulug'bek tumani,Sarbon mahallasi,Сарбон махалля,411,3
+Mirzo Ulug'bek tumani,Bahor mahallasi,Бахор махалля,38,3
+Mirzo Ulug'bek tumani,Hamid Olimjon mahallasi,Хамид Олимжон махалля,180,3
+Mirzo Ulug'bek tumani,Katta Yalang'ochota mahallasi,Катта Ялангочота махалля,246,3
+Mirzo Ulug'bek tumani,Azamat mahallasi,Азамат махалля,37,3
+Mirzo Ulug'bek tumani,Geofizika mahallasi,Геофизика махалля,160,3
+Mirzo Ulug'bek tumani,Oltintepa mahallasi,Олтинтепа махалля,345,3
+Mirzo Ulug'bek tumani,Feruza mahallasi,Феруза махалля,151,3
+Mirzo Ulug'bek tumani,Turon mahallasi,Турон махалля,483,3
+Mirzo Ulug'bek tumani,Geologlar mahallasi,Геологлар махалля,161,3
+Mirzo Ulug'bek tumani,Yangi Kamolot mahallasi,Янги Камолот махалля,531,3
+Mirzo Ulug'bek tumani,Ahmad Yugnakiy mahallasi,Ахмад Югнакий махалля,14,3
+Mirzo Ulug'bek tumani,Uyg'onish mahallasi,Уйгониш махалля,495,3
+Mirzo Ulug'bek tumani,Gulzorobod mahallasi,Гулзоробод махалля,171,3
+Mirzo Ulug'bek tumani,Munavvarqori mahallasi,Мунавваркори махалля,302,3
+Mirzo Ulug'bek tumani,Yuzrabot mahallasi,Юзработ махалля,566,3
+Mirzo Ulug'bek tumani,Nur mahallasi,Нур махалля,326,3
+Mirzo Ulug'bek tumani,Minglola mahallasi,Минглола махалля,287,3
+Mirzo Ulug'bek tumani,Temuriylar mahallasi,Темурийлар махалля,465,3
+Mirzo Ulug'bek tumani,Alisherobod mahallasi,Алишеробод махалля,22,3
+Mirzo Ulug'bek tumani,Sayram mahallasi,Сайрам махалля,415,3
+Mirzo Ulug'bek tumani,Elobod mahallasi,Элобод махалля,137,3
+Mirzo Ulug'bek tumani,Yangi Olmachi mahallasi,Янги Олмачи махалля,533,3
+Mirzo Ulug'bek tumani,Avayxon mahallasi,Авайхон махалля,35,3
+Mirzo Ulug'bek tumani,Nodirabegim mahallasi,Нодирабегим махалля,323,3
+Mirzo Ulug'bek tumani,Alpomish mahallasi,Алпомиш махалля,25,3
+Mirzo Ulug'bek tumani,Ko‘hna Mevazor mahallasi,Кухна Мевазор махалля,257,3
+Mirzo Ulug'bek tumani,Podshobog' mahallasi,Подшобог махалля,374,3
+Mirzo Ulug'bek tumani,Humoyun mahallasi,Хумоюн махалля,191,3
+Mirzo Ulug'bek tumani,Iqtidor mahallasi,Иктидор махалля,205,3
+Mirzo Ulug'bek tumani,Katta Oltintepa mahallasi,Катта Олтинтепа махалля,239,3
+Mirzo Ulug'bek tumani,Kamolot mahallasi,Камолот махалля,229,3
+Mirzo Ulug'bek tumani,Beshkapa mahallasi,Бешкапа махалля,57,3
+Mirzo Ulug'bek tumani,Zakovat mahallasi,Заковат махалля,569,3
+Mirzo Ulug'bek tumani,Alisher Navoiy mahallasi,Алишер Навоий махалля,21,3
+Mirzo Ulug'bek tumani,Chingeldi mahallasi,Чингелди махалля,111,3
+Mirzo Ulug'bek tumani,Pastkiyuz mahallasi,Пасткиюз махалля,371,3
+Olmazor tumani,Shon-shuhrat mahallasi,Шон-шухрат махалля,444,4
+Olmazor tumani,Tabassum mahallasi,Табассум махалля,457,4
+Olmazor tumani,Namuna mahallasi,Намуна махалля,310,4
+Olmazor tumani,Tepaguzar mahallasi,Тепагузар махалля,467,4
+Olmazor tumani,Achaobod mahallasi,Ачаобод махалля,6,4
+Olmazor tumani,Eskishahar mahallasi,Эскишахар махалля,143,4
+Olmazor tumani,Chustiy mahallasi,Чустий махалля,121,4
+Olmazor tumani,Allon mahallasi,Аллон махалля,24,4
+Olmazor tumani,Elparvar mahallasi,Элпарвар махалля,138,4
+Olmazor tumani,Qichqiriq mahallasi,Кичкирик махалля,383,4
+Olmazor tumani,Gulzor mahallasi,Гулзор махалля,170,4
+Olmazor tumani,Shifokorlar mahallasi,Шифокорлар махалля,433,4
+Olmazor tumani,Chig‘atoy-Oqtepa mahallasi,Чигатой-Октепа махалля,105,4
+Olmazor tumani,Beruniy mahallasi,Беруний махалля,53,4
+Olmazor tumani,Miskin mahallasi,Мискин махалля,295,4
+Olmazor tumani,Olimpiya mahallasi,Олимпия махалля,338,4
+Olmazor tumani,Yuqori Beshqo‘rg‘on mahallasi,Юкори Бешкургон махалля,561,4
+Olmazor tumani,Sebzor mahallasi,Себзор махалля,416,4
+Olmazor tumani,Yuqori Sebzor mahallasi,Юкори Себзор махалля,563,4
+Olmazor tumani,Yangi Sebzor mahallasi,Янги Себзор махалля,535,4
+Olmazor tumani,Zarhal mahallasi,Зархал махалля,576,4
+Olmazor tumani,Jiydali mahallasi,Жийдали махалля,222,4
+Olmazor tumani,Chig‘atoy Darvoza mahallasi,Чигатой Дарвоза махалля,104,4
+Olmazor tumani,Istiqbol mahallasi,Истикбол махалля,208,4
+Olmazor tumani,Guzarboshi mahallasi,Гузарбоши махалля,174,4
+Olmazor tumani,Ahil mahallasi,Ахил махалля,9,4
+Olmazor tumani,Quyosh mahallasi,Куёш махалля,403,4
+Olmazor tumani,Chimboy mahallasi,Чимбой махалля,109,4
+Olmazor tumani,Mustaqil yurt mahallasi,Мустакил юрт махалля,306,4
+Olmazor tumani,Moyariq mahallasi,Мойарик махалля,299,4
+Olmazor tumani,Qo'shtut mahallasi,Куштут махалля,386,4
+Olmazor tumani,Hazrati Imom mahallasi,Хазрати Имом махалля,186,4
+Olmazor tumani,Orzu mahallasi,Орзу махалля,355,4
+Olmazor tumani,Ziyokor mahallasi,Зиёкор махалля,581,4
+Olmazor tumani,Umid mahallasi,Умид махалля,490,4
+Olmazor tumani,Abu Bakr Shoshiy mahallasi,Абу Бакр Шоший махалля,5,4
+Olmazor tumani,Shodiyona mahallasi,Шодиёна махалля,437,4
+Olmazor tumani,Bo'stonobod mahallasi,Бустонобод махалля,68,4
+Olmazor tumani,Mirzo G'olib mahallasi,Мирзо Голиб махалля,293,4
+Olmazor tumani,Hastimom mahallasi,Хастимом махалля,184,4
+Olmazor tumani,Oltinsoy mahallasi,Олтинсой махалля,344,4
+Olmazor tumani,Hofiz Ko'hakiy mahallasi,Хофиз Кухакий махалля,188,4
+Olmazor tumani,Ziyo mahallasi,Зиё махалля,580,4
+Olmazor tumani,Paxta mahallasi,Пахта махалля,372,4
+Olmazor tumani,Chuqursoy mahallasi,Чукурсой махалля,120,4
+Olmazor tumani,Chinniobod mahallasi,Чинниабад махалля,112,4
+Olmazor tumani,Gulsaroy mahallasi,Гулсарой махалля,168,4
+Olmazor tumani,Qorasaroy mahallasi,Корасарой махалля,387,4
+Olmazor tumani,Zamondosh mahallasi,Замондош махалля,571,4
+Olmazor tumani,Guruchariq mahallasi,Гуручарик махалля,172,4
+Olmazor tumani,G'alaba mahallasi,Галаба махалля,157,4
+Olmazor tumani,Nihol mahallasi,Нихол махалля,318,4
+Olmazor tumani,G'ani A'zamov mahallasi,Гани Аъзамов махалля,158,4
+Olmazor tumani,Taraqqiyot mahallasi,Тараккиёт махалля,459,4
+Olmazor tumani,Yoshlik mahallasi,Ёшлик махалля,556,4
+Olmazor tumani,Universitet mahallasi,Университет махалля,491,4
+Olmazor tumani,Ibrohimota mahallasi,Иброхимота махалля,197,4
+Olmazor tumani,Chilto‘g‘on mahallasi,Чилтугон махалля,108,4
+Olmazor tumani,Xonchorbog‘ mahallasi,Хончорбог махалля,508,4
+Olmazor tumani,Islomota mahallasi,Исломота махалля,207,4
+Olmazor tumani,Yangi Toshkent mahallasi,Янги Тошкент махалля,537,4
+Olmazor tumani,Xislat mahallasi,Хислат махалля,506,4
+Olmazor tumani,Chamanbog' mahallasi,Чаманбог махалля,95,4
+Olmazor tumani,Kaykovus mahallasi,Кайковус махалля,250,4
+Sergeli tumani,Quruvchilar mahallasi,Курувчилар махалля,399,5
+Sergeli tumani,Oltinvodiy mahallasi,Олтинводий махалля,347,5
+Sergeli tumani,Izzatli mahallasi,Иззатли махалля,214,5
+Sergeli tumani,Saxovat mahallasi,Саховат махалля,414,5
+Sergeli tumani,Shukrona mahallasi,Шукрона махалля,447,5
+Sergeli tumani,Madaniyat mahallasi,Маданият махалля,273,5
+Sergeli tumani,Uchuvchilar mahallasi,Учувчилар махалля,488,5
+Sergeli tumani,Xonobodtepa mahallasi,Хонободтепа махалля,511,5
+Sergeli tumani,Qut-baraka mahallasi,Кут-барака махалля,401,5
+Sergeli tumani,Nilufar mahallasi,Нилуфар махалля,319,5
+Sergeli tumani,Ittifoq mahallasi,Иттифок махалля,212,5
+Sergeli tumani,No'g'oyqo'rg'on mahallasi,Нугойкургон махалля,321,5
+Sergeli tumani,Yuqori Darxon mahallasi,Юкори Дархон махалля,562,5
+Sergeli tumani,Ziynat mahallasi,Зийнат махалля,579,5
+Sergeli tumani,Xontepa mahallasi,Хонтепа махалля,512,5
+Sergeli tumani,Yangi Bunyodobod mahallasi,Янги Бунёдобод махалля,525,5
+Sergeli tumani,Habibiy mahallasi,Хабибий махалля,177,5
+Sergeli tumani,Ezgulik mahallasi,Эзгулик махалля,144,5
+Sergeli tumani,Sohibqiron mahallasi,Сохибкирон махалля,451,5
+Sergeli tumani,Yangi Sergeli mahallasi,Янги Сергели махалля,536,5
+Sergeli tumani,Mehrigiyo mahallasi,Мехригиё махалля,282,5
+Sergeli tumani,O'zgarish mahallasi,Узгариш махалля,332,5
+Sergeli tumani,Qipchoq mahallasi,Кипчок махалля,384,5
+Sergeli tumani,Jo'nariq mahallasi,Жунарик махалля,223,5
+Sergeli tumani,Daryobo'yi mahallasi,Дарёбуйи махалля,124,5
+Sergeli tumani,Sofdil mahallasi,Софдил махалля,450,5
+Sergeli tumani,Nurhayot mahallasi,Нурхаёт махалля,328,5
+Sergeli tumani,Madadkor mahallasi,Мададкор махалля,272,5
+Sergeli tumani,Kengmakon mahallasi,Кенгмакон махалля,251,5
+Sergeli tumani,Bunyodobod mahallasi,Бунёдобод махалля,92,5
+Sergeli tumani,Qumariq mahallasi,Кумарик махалля,398,5
+Sergeli tumani,Birdamlik mahallasi,Бирдамлик махалля,64,5
+Sergeli tumani,Xalqobod mahallasi,,503,5
+Sergeli tumani,Nomdanak mahallasi,Номданак махалля,324,5
+Sergeli tumani,Xonobod mahallasi,Хонобод махалля,510,5
+Sergeli tumani,Eshonbuloq mahallasi,Эшонбулок махалля,139,5
+Sergeli tumani,Farog‘atli mahallasi,Фарогатли махалля,146,5
+Sergeli tumani,Asrobod mahallasi,Асробод махалля,32,5
+Sergeli tumani,Ko‘hna Qumariq mahallasi,Кухна Кумарик махалля,258,5
+Sergeli tumani,Qubaytepa mahallasi,Кубайтепа махалля,397,5
+Sergeli tumani,Eski Jaloyir mahallasi,Эски Джалойир махалля,141,5
+Sergeli tumani,Ziyolilar mahallasi,Зиёлилар махалля,582,5
+Sergeli tumani,Sultonobod mahallasi,Султонобод махалля,455,5
+Sergeli tumani,Sadoqat mahallasi,Садокат махалля,408,5
+Sergeli tumani,Sug'diyona mahallasi,Сугдиёна махалля,453,5
+Sergeli tumani,Qo‘shqo‘rg‘on mahallasi,Кушкургон махалля,394,5
+Shayxontohur tumani,Oqlon mahallasi,Оклон махалля,349,6
+Shayxontohur tumani,Chaqar mahallasi,Чакар махалля,97,6
+Shayxontohur tumani,Labzak mahallasi,Лабзак махалля,266,6
+Shayxontohur tumani,Yangishahar mahallasi,Янгишахар махалля,546,6
+Shayxontohur tumani,Ibn Sino mahallasi,Ибн Сино махалля,195,6
+Shayxontohur tumani,Tinchlik mahallasi,Тинчлик махалля,470,6
+Shayxontohur tumani,Shofayzi mahallasi,Шофайзи махалля,439,6
+Shayxontohur tumani,Eshonguzar mahallasi,Эшонгузар махалля,140,6
+Shayxontohur tumani,Bog‘ko‘cha mahallasi,Богкуча махалля,79,6
+Shayxontohur tumani,Ilg‘or mahallasi,Илгор махалля,200,6
+Shayxontohur tumani,Kattahovuz mahallasi,Каттаховуз махалля,249,6
+Shayxontohur tumani,Yangi Beltepa mahallasi,Янги Белтепа махалля,524,6
+Shayxontohur tumani,Sarxumdon mahallasi,Сархумдон махалля,413,6
+Shayxontohur tumani,Yangi Jarariq mahallasi,Янги Жарарик махалля,529,6
+Shayxontohur tumani,Jarariq mahallasi,Жарарик махалля,217,6
+Shayxontohur tumani,Ko‘kcha Darvoza mahallasi,Кукча Дарвоза махалля,259,6
+Shayxontohur tumani,Beltepa mahallasi,Белтепа махалля,52,6
+Shayxontohur tumani,Katta Jarariq mahallasi,Катта Жарарик махалля,236,6
+Shayxontohur tumani,Xadra mahallasi,Хадра махалля,501,6
+Shayxontohur tumani,Olmazor mahallasi,Олмазор махалля,341,6
+Shayxontohur tumani,Kohota mahallasi,Кохота махалля,254,6
+Shayxontohur tumani,Shayxontohur mahallasi,Шайхонтохур махалля,432,6
+Shayxontohur tumani,O‘qchi mahallasi,Укчи махалля,361,6
+Shayxontohur tumani,Gulobod mahallasi,Гулобод махалля,166,6
+Shayxontohur tumani,Gulbozor mahallasi,Гулбозор махалля,164,6
+Shayxontohur tumani,Janggoh mahallasi,Жанггох махалля,216,6
+Shayxontohur tumani,Chorsu mahallasi,Чорсу махалля,116,6
+Shayxontohur tumani,Bo‘ston mahallasi,Бустон махалля,88,6
+Shayxontohur tumani,Ipakchi mahallasi,Ипакчи махалля,203,6
+Shayxontohur tumani,Yangi Kamolon mahallasi,Янги Камолон махалля,530,6
+Shayxontohur tumani,Suzukota mahallasi,Сузукота махалля,456,6
+Shayxontohur tumani,Taxtapul mahallasi,Тахтапул махалля,463,6
+Shayxontohur tumani,Olim Xo‘jayev mahallasi,Олим Хужаев махалля,336,6
+Shayxontohur tumani,Charxnovza mahallasi,Чархновза махалля,102,6
+Shayxontohur tumani,Katta Oqtepa mahallasi,Катта Октепа махалля,240,6
+Shayxontohur tumani,Samarqand Darvoza mahallasi,Самарканд Дарвоза махалля,410,6
+Shayxontohur tumani,Huvaydo mahallasi,Хувайдо махалля,194,6
+Shayxontohur tumani,Shodlik mahallasi,Шодлик махалля,438,6
+Shayxontohur tumani,Zafarobod mahallasi,Зафаробод махалля,568,6
+Shayxontohur tumani,Kamolon mahallasi,Камолон махалля,228,6
+Shayxontohur tumani,Kattabog‘ mahallasi,Каттабог махалля,248,6
+Shayxontohur tumani,Obinazir mahallasi,Обиназир махалля,333,6
+Shayxontohur tumani,Eski Jarariq mahallasi,Эски Жарарик махалля,142,6
+Shayxontohur tumani,O‘zbekiston mahallasi,Узбекистон махалля,367,6
+Shayxontohur tumani,Kamolon Darvoza mahallasi,Камолон Дарвоза махалля,227,6
+Shayxontohur tumani,Ko‘kcha mahallasi,Кукча махалля,260,6
+Shayxontohur tumani,Qoratosh mahallasi,Коратош махалля,389,6
+Shayxontohur tumani,Yangiobod mahallasi,Янгиобод махалля,544,6
+Shayxontohur tumani,Mannon Uyg‘ur mahallasi,Маннон Уйгур махалля,275,6
+Shayxontohur tumani,O‘rda mahallasi,Урда махалля,363,6
+Shayxontohur tumani,Zangiota mahallasi,Зангиота махалля,572,6
+Uchtepa tumani,Shirin mahallasi,Ширин махалля,434,7
+Uchtepa tumani,Jurjoniy mahallasi,Журжоний махалля,226,7
+Uchtepa tumani,Xuroson mahallasi,Хуросон махалля,516,7
+Uchtepa tumani,Qo'rg'ontepa mahallasi,Кургонтепа махалля,385,7
+Uchtepa tumani,Zargarlik mahallasi,Заргарлик махалля,575,7
+Uchtepa tumani,Tepaqo'rg'on mahallasi,Тепакургон махалля,468,7
+Uchtepa tumani,Birlik mahallasi,Бирлик махалля,66,7
+Uchtepa tumani,Nayman mahallasi,Найман махалля,317,7
+Uchtepa tumani,Nurobod mahallasi,Нуробод махалля,331,7
+Uchtepa tumani,Yangiyo'l mahallasi,Янгийул махалля,549,7
+Uchtepa tumani,Nishabariq mahallasi,Нишабарик махалля,320,7
+Uchtepa tumani,Sharq guli mahallasi,Шарк гули махалля,426,7
+Uchtepa tumani,Vatan mahallasi,Ватан махалля,497,7
+Uchtepa tumani,Farhod mahallasi,Фарход махалля,145,7
+Uchtepa tumani,Tinchlikobod mahallasi,Тинчликобод махалля,471,7
+Uchtepa tumani,Xondamir mahallasi,Хондамир махалля,509,7
+Uchtepa tumani,Sharq yulduzi mahallasi,Шарк юлдузи махалля,430,7
+Uchtepa tumani,Bog‘ichinor mahallasi,Богичинор махалля,74,7
+Uchtepa tumani,Qoryog‘di mahallasi,Корёгди махалля,390,7
+Uchtepa tumani,Degrez mahallasi,Дегрез махалля,126,7
+Uchtepa tumani,Alixonto‘ra Sog‘uniy mahallasi,Алихонтура Согуний махалля,23,7
+Uchtepa tumani,Diydor mahallasi,Дийдор махалля,130,7
+Uchtepa tumani,Hamdo'st mahallasi,Хамдуст махалля,179,7
+Uchtepa tumani,Shaftolizor mahallasi,Шафтолизор махалля,419,7
+Uchtepa tumani,Katta Cho‘ponota mahallasi,Катта-Чупонота махалля,233,7
+Uchtepa tumani,Guzar mahallasi,Гузар махалля,173,7
+Uchtepa tumani,O‘tkir mahallasi,Уткир махалля,366,7
+Uchtepa tumani,Zulfizar mahallasi,Зулфизар махалля,584,7
+Uchtepa tumani,Qoziguzar mahallasi,Козигузар махалля,391,7
+Uchtepa tumani,Diyorobod mahallasi,Диёробод махалля,132,7
+Uchtepa tumani,Beshqayrag‘och mahallasi,Бешкайрагоч махалля,58,7
+Uchtepa tumani,Ibrat mahallasi,Ибрат махалля,196,7
+Uchtepa tumani,Bog‘iston mahallasi,Богистон махалля,78,7
+Uchtepa tumani,Davlatobod mahallasi,Давлатобод махалля,125,7
+Uchtepa tumani,Chamanzor mahallasi,Чаманзор махалля,96,7
+Uchtepa tumani,Foziltepa mahallasi,Фозилтепа махалля,155,7
+Uchtepa tumani,Quyi Darxon mahallasi,Куйи Дархон махалля,402,7
+Uchtepa tumani,Zarafshon mahallasi,Зарафшон махалля,573,7
+Uchtepa tumani,Bekobod mahallasi,Бекобод махалля,48,7
+Uchtepa tumani,Ko‘ksaroy mahallasi,Куксарой махалля,262,7
+Uchtepa tumani,Oqmasjid mahallasi,Окмасжид махалля,350,7
+Uchtepa tumani,Hayratiy mahallasi,Хайратий махалля,185,7
+Uchtepa tumani,Xurshid mahallasi,Хуршид махалля,517,7
+Uchtepa tumani,Paxtakor mahallasi,Пахтакор махалля,373,7
+Uchtepa tumani,Shofayzibog‘ mahallasi,Шофайзибог махалля,440,7
+Uchtepa tumani,Uchtepa mahallasi,Учтепа махалля,487,7
+Uchtepa tumani,Abdulla Qodiriy mahallasi,Абдулла Кодирий махалля,3,7
+Uchtepa tumani,Yusuf Sakkokiy mahallasi,Юсуф Саккокий махалля,565,7
+Uchtepa tumani,Taqachi mahallasi,Такачи махалля,458,7
+Uchtepa tumani,Ko‘hna Cho‘ponota mahallasi,Кухна Чупонота махалля,256,7
+Uchtepa tumani,Latifguzar mahallasi,Латифгузар махалля,268,7
+Uchtepa tumani,Bog‘obod mahallasi,Богобод махалля,80,7
+Uchtepa tumani,Istirohat mahallasi,Истирохат махалля,211,7
+Uchtepa tumani,Hojiobod mahallasi,Хожиобод махалля,189,7
+Uchtepa tumani,Ko‘rkamobod mahallasi,Куркамобод махалля,263,7
+Uchtepa tumani,Jarbuloq mahallasi,Жарбулок махалля,219,7
+Uchtepa tumani,Vatanparvar mahallasi,Ватанпарвар махалля,499,7
+Uchtepa tumani,O‘rikzor mahallasi,Урикзор махалля,364,7
+Uchtepa tumani,Ko‘kcha-Oqtepa mahallasi,Кукча-Октепа махалля,261,7
+Uchtepa tumani,Katta Qa'ni mahallasi,Катта Каъни махалля,241,7
+Yakkasaroy tumani,Tepa mahallasi,Тепа махалля,466,8
+Yakkasaroy tumani,Bog‘saroy mahallasi,Богсарой махалля,81,8
+Yakkasaroy tumani,Abdulla Qahhor mahallasi,Абдулла Каххор махалля,2,8
+Yakkasaroy tumani,Rakat mahallasi,Ракат махалля,404,8
+Yakkasaroy tumani,Shohjahon mahallasi,Шохжахон махалля,442,8
+Yakkasaroy tumani,To‘qimachi mahallasi,Тукимачи махалля,478,8
+Yakkasaroy tumani,Boshliq mahallasi,Бошлик махалля,83,8
+Yakkasaroy tumani,Damariq mahallasi,Дамарик махалля,122,8
+Yakkasaroy tumani,Hamid Sulaymonov mahallasi,Хамид Сулаймонов махалля,181,8
+Yakkasaroy tumani,Muqimiy mahallasi,Мукимий махалля,303,8
+Yakkasaroy tumani,Konstitutsiya mahallasi,Конституция махалля,255,8
+Yakkasaroy tumani,Armug‘on mahallasi,Армугон махалля,29,8
+Yakkasaroy tumani,Muhandislar mahallasi,Мухандислар махалля,300,8
+Yakkasaroy tumani,Belariq mahallasi,Беларик махалля,51,8
+Yakkasaroy tumani,Dilbuloq mahallasi,Дилбулок махалля,128,8
+Yakkasaroy tumani,Meros mahallasi,Мерос махалля,284,8
+Yakkasaroy tumani,Rakatboshi mahallasi,Ракатбоши махалля,405,8
+Yakkasaroy tumani,Yunus Rajabiy mahallasi,Юнус Ражабий махалля,558,8
+Yakkasaroy tumani,Yakkasaroy mahallasi,Яккасарой махалля,520,8
+Yakkasaroy tumani,Bobur mahallasi,Бобур махалля,70,8
+Yakkasaroy tumani,Qushbegi mahallasi,Кушбеги махалля,400,8
+Yangihayot tumani,Yangi Umid mahallasi,Янги Умид махалля,538,9
+Yangihayot tumani,Yangiturmush mahallasi,Янгитурмуш махалля,548,9
+Yangihayot tumani,Humo mahallasi,Хумо махалля,190,9
+Yangihayot tumani,Yangi Darxon mahallasi,Янги Дархон махалля,527,9
+Yangihayot tumani,Chorbog' mahallasi,Чорбог махалля,115,9
+Yangihayot tumani,Mash'al mahallasi,Машъал махалля,277,9
+Yangihayot tumani,Choshtepa mahallasi,Чоштепа махалля,118,9
+Yangihayot tumani,Tashabbus mahallasi,Ташаббус махалля,461,9
+Yangihayot tumani,Yangihayot mahallasi,Янгихаёт махалля,542,9
+Yangihayot tumani,Fayzli mahallasi,Файзли махалля,149,9
+Yangihayot tumani,Charog'on mahallasi,Чарогон махалля,98,9
+Yangihayot tumani,Zarbdor mahallasi,Зарбдор махалля,574,9
+Yangihayot tumani,Jaloyir mahallasi,Жалойир махалля,215,9
+Yangihayot tumani,Yorqinhayot mahallasi,Ёркинхаёт махалля,554,9
+Yangihayot tumani,Olchazor mahallasi,Олчазор махалля,335,9
+Yangihayot tumani,Yo'ldosh mahallasi,Йулдош махалля,553,9
+Yangihayot tumani,Al-Farg‘oniy mahallasi,Ал-Фаргоний махалля,17,9
+Yangihayot tumani,Oriyat mahallasi,Орият махалля,354,9
+Yangihayot tumani,Toshkent mahallasi,Тошкент махалля,476,9
+Yangihayot tumani,Marhamat mahallasi,Мархамат махалля,276,9
+Yangihayot tumani,Navqiron mahallasi,Навкирон махалля,314,9
+Yangihayot tumani,Viqor mahallasi,Викор махалля,500,9
+Yangihayot tumani,Yangi Choshtepa mahallasi,Янги Чоштепа махалля,526,9
+Yangihayot tumani,Xo‘ja Uchqun mahallasi,Хужа Учкун махалля,515,9
+Yangihayot tumani,Gulshanobod mahallasi,Гулшанобод махалля,169,9
+Yangihayot tumani,Chortoq mahallasi,Чорток махалля,117,9
+Yangihayot tumani,Do'stlik mahallasi,Дустлик махалля,133,9
+Yangihayot tumani,Binokor mahallasi,Бинокор махалля,63,9
+Yangihayot tumani,Yangi Gulzor mahallasi,Янги Гулзор махалля,528,9
+Yangihayot tumani,Xushnud mahallasi,Хушнуд махалля,518,9
+Yashnobod tumani,Jo‘rabek mahallasi,Журабек махалля,225,10
+Yashnobod tumani,Alimkent mahallasi,Алимкент махалля,20,10
+Yashnobod tumani,Uysozlar mahallasi,Уйсозлар махалля,496,10
+Yashnobod tumani,Go‘zal mahallasi,Гузал махалля,162,10
+Yashnobod tumani,Aviasozlar mahallasi,Авиасозлар махалля,36,10
+Yashnobod tumani,Maxmur mahallasi,Махмур махалля,280,10
+Yashnobod tumani,Mohinur mahallasi,Мохинур махалля,296,10
+Yashnobod tumani,Nodira mahallasi,Нодира махалля,322,10
+Yashnobod tumani,O‘qchi-Olmazor mahallasi,Укчи-Олмазор махалля,362,10
+Yashnobod tumani,Iltifot mahallasi,Илтифот махалля,201,10
+Yashnobod tumani,Shohimardon mahallasi,Шохимардон махалля,441,10
+Yashnobod tumani,Barkamol mahallasi,Баркамол махалля,42,10
+Yashnobod tumani,Donishmand mahallasi,Донишманд махалля,134,10
+Yashnobod tumani,Oydinko‘l mahallasi,Ойдинкул махалля,360,10
+Yashnobod tumani,Uchchinor mahallasi,Уччинор махалля,485,10
+Yashnobod tumani,Hilol mahallasi,Хилол махалля,187,10
+Yashnobod tumani,Tovkentepa mahallasi,Товкентепа махалля,477,10
+Yashnobod tumani,Mumtoz mahallasi,Мумтоз махалля,301,10
+Yashnobod tumani,Muxtor Ashrafiy mahallasi,Мухтор Ашрафий махалля,308,10
+Yashnobod tumani,Mohirlar mahallasi,Мохирлар махалля,297,10
+Yashnobod tumani,Jarboshi mahallasi,Джарбоши махалля,218,10
+Yashnobod tumani,Tashisti mahallasi,Ташисти махалля,462,10
+Yashnobod tumani,Yashnobod mahallasi,Яшнобод махалля,551,10
+Yashnobod tumani,Navro'zobod mahallasi,Наврузобод махалля,316,10
+Yashnobod tumani,Fazogir mahallasi,Фазогир махалля,150,10
+Yashnobod tumani,Beshariq mahallasi,Бешарик махалля,54,10
+Yashnobod tumani,Shirinobod mahallasi,Ширинобод махалля,435,10
+Yashnobod tumani,Qalqon mahallasi,Калкон махалля,378,10
+Yashnobod tumani,Vatandosh mahallasi,Ватандош махалля,498,10
+Yashnobod tumani,Bog'bon mahallasi,Богбон махалля,72,10
+Yashnobod tumani,Katta Qo‘yliq mahallasi,Катта Куйлик махалля,244,10
+Yashnobod tumani,Yosh avlod mahallasi,Ёш авлод махалля,555,10
+Yashnobod tumani,Yangiqo‘rg‘on mahallasi,Янгикургон махалля,545,10
+Yashnobod tumani,Amir Temur mahallasi,Амир Темур махалля,26,10
+Yashnobod tumani,Qo‘yliqobod mahallasi,Куйликобод махалля,395,10
+Yashnobod tumani,To‘ytepa mahallasi,Туйтепа махалля,479,10
+Yashnobod tumani,Yangi davr mahallasi,Янги давр махалля,539,10
+Yashnobod tumani,Bunyodkor mahallasi,Бунёдкор махалля,91,10
+Yashnobod tumani,Fidoyilar mahallasi,Фидойилар махалля,153,10
+Yashnobod tumani,Cho'lpon mahallasi,Чулпон махалля,114,10
+Yashnobod tumani,Olmos mahallasi,Олмос махалля,342,10
+Yashnobod tumani,Birlashgan mahallasi,Бирлашган махалля,65,10
+Yashnobod tumani,Ma'rifat mahallasi,Маърифат махалля,271,10
+Yashnobod tumani,Qadriyat mahallasi,Кадрият махалля,377,10
+Yashnobod tumani,Jarqo‘rg‘on mahallasi,Жаркургон махалля,220,10
+Yashnobod tumani,Boyqo‘rg‘on mahallasi,Бойкургон махалля,85,10
+Yashnobod tumani,Behizor mahallasi,Бехизор махалля,47,10
+Yashnobod tumani,Istiqlol mahallasi,Истиклол махалля,209,10
+Yashnobod tumani,Semurg' mahallasi,Семург махалля,417,10
+Yashnobod tumani,Katta Yangiobod mahallasi,Катта Янгиобод махалля,247,10
+Yashnobod tumani,Al-Buxoriy mahallasi,Ал-Бухорий махалля,16,10
+Yashnobod tumani,Dilbog' mahallasi,Дилбог махалля,127,10
+Yashnobod tumani,Asalobod mahallasi,Асалобод махалля,31,10
+Yashnobod tumani,Tuzel mahallasi,Тузел махалля,484,10
+Yashnobod tumani,Tong mahallasi,Тонг махалля,474,10
+Yashnobod tumani,Boysun mahallasi,Бойсун махалля,86,10
+Yashnobod tumani,Parvoz mahallasi,Парвоз махалля,370,10
+Yashnobod tumani,Yanginur mahallasi,Янгинур махалля,543,10
+Yashnobod tumani,Tarnovboshi mahallasi,Тарновбоши махалля,460,10
+Yashnobod tumani,Mashinasozlar mahallasi,Машинасозлар махалля,278,10
+Yashnobod tumani,O‘rtamasjid mahallasi,Уртамасжид махалля,365,10
+Yashnobod tumani,Ahmad Yassaviy mahallasi,Ахмад Яссавий махалля,13,10
+Yashnobod tumani,Xosiyatli mahallasi,Хосиятли махалля,514,10
+Yashnobod tumani,Beshbola mahallasi,Бешбола махалля,55,10
+Yashnobod tumani,Arg‘in mahallasi,Аргин махалля,28,10
+Yashnobod tumani,Do‘stobod mahallasi,Дустобод махалля,136,10
+Yashnobod tumani,Shohsanam mahallasi,Шохсанам махалля,443,10
+Yunusobod tumani,Shahriston mahallasi,Шахристон махалля,422,11
+Yunusobod tumani,Sevinch mahallasi,Севинч махалля,418,11
+Yunusobod tumani,Yunusota mahallasi,Юнусота махалля,560,11
+Yunusobod tumani,Ahmad Donish mahallasi,Ахмад Дониш махалля,12,11
+Yunusobod tumani,Obod mahallasi,Обод махалля,334,11
+Yunusobod tumani,Xiyobontepa mahallasi,Хиёбонтепа махалля,507,11
+Yunusobod tumani,Shoshtepa mahallasi,Шоштепа махалля,445,11
+Yunusobod tumani,Usta Shirin mahallasi,Уста Ширин махалля,492,11
+Yunusobod tumani,Oqtepa mahallasi,Октепа махалля,352,11
+Yunusobod tumani,Beg‘ubor mahallasi,Бегубор махалля,46,11
+Yunusobod tumani,Hamkorobod mahallasi,Хамкоробод махалля,182,11
+Yunusobod tumani,Bog‘ishamol mahallasi,Богишамол махалля,77,11
+Yunusobod tumani,Mingchinor mahallasi,Мингчинор махалля,286,11
+Yunusobod tumani,Billur mahallasi,Биллур махалля,62,11
+Yunusobod tumani,Minor mahallasi,Минор махалля,289,11
+Yunusobod tumani,Nurmakon mahallasi,Нурмакон махалля,330,11
+Yunusobod tumani,Husniobod mahallasi,Хусниобод махалля,193,11
+Yunusobod tumani,Bog‘ieram mahallasi,Богиэрам махалля,75,11
+Yunusobod tumani,Uvaysiy mahallasi,Увайсий махалля,494,11
+Yunusobod tumani,Qadrdon mahallasi,Кадрдон махалля,376,11
+Yunusobod tumani,Kulolqo‘rg‘on mahallasi,Кулолкургон махалля,265,11
+Yunusobod tumani,Turkiston mahallasi,Туркистон махалля,481,11
+Yunusobod tumani,Registon mahallasi,Регистон махалля,406,11
+Yunusobod tumani,Shayx Shibliy mahallasi,Шайх Шивлий махалля,431,11
+Yunusobod tumani,Muruvvat mahallasi,Мурувват махалля,304,11
+Yunusobod tumani,Qo‘shchinor mahallasi,Кушчинор махалля,393,11
+Yunusobod tumani,Yangibog' mahallasi,Янгибог махалля,541,11
+Yunusobod tumani,O‘zbekiston mustaqilligi mahallasi,Узбекистон мустакиллиги махалля,368,11
+Yunusobod tumani,Sobirobod mahallasi,Собиробод махалля,449,11
+Yunusobod tumani,Hasanboy mahallasi,Хасанбой махалля,183,11
+Yunusobod tumani,Matonat mahallasi,Матонат махалля,279,11
+Yunusobod tumani,Mehnatobod mahallasi,Мехнатобод махалля,281,11
+Yunusobod tumani,Yangiariq mahallasi,Янгиарик махалля,540,11
+Yunusobod tumani,Jomiy mahallasi,Жомий махалля,224,11
+Yunusobod tumani,Turkqo‘rg‘on mahallasi,Турккургон махалля,482,11
+Yunusobod tumani,Astrobod mahallasi,Астробод махалля,33,11
+Yunusobod tumani,Bobodehqon mahallasi,Бободехкон махалля,69,11
+Yunusobod tumani,Ahilobod mahallasi,Ахилобод махалля,11,11
+Yunusobod tumani,Buyuk Turon mahallasi,Буюк Турон махалля,93,11
+Yunusobod tumani,G‘ayratiy mahallasi,Гайратий махалля,175,11
+Yunusobod tumani,Adolat mahallasi,Адолат махалля,7,11
+Yunusobod tumani,Halqabog' mahallasi,Халкабог махалля,178,11
+Yunusobod tumani,Akbarobod mahallasi,Акбаробод махалля,15,11
+Yunusobod tumani,Yunusobod mahallasi,Юнусобод махалля,559,11
+Yunusobod tumani,Yurtobod mahallasi,Юртобод махалля,564,11
+Yunusobod tumani,Yo'layriq mahallasi,Йулайрик махалля,552,11
+Yunusobod tumani,Uchqahramon mahallasi,Учкахрамон махалля,486,11
+Yunusobod tumani,Tiklanish mahallasi,Тикланиш махалля,469,11
+Yunusobod tumani,Islomobod mahallasi,Исломобод махалля,206,11
+Yunusobod tumani,Katta Hasanboy mahallasi,Катта Хасанбой махалля,235,11
+Yunusobod tumani,Anorzor mahallasi,Анорзор махалля,27,11
+Yunusobod tumani,Otchopar-2 mahallasi,Отчопар-2 махалля,357,11
+Yunusobod tumani,Sharq haqiqati mahallasi,Шарк хакикати махалля,427,11
+Yunusobod tumani,Posira mahallasi,Посира махалля,375,11
+Yunusobod tumani,Otchopar-1 mahallasi,Отчопар-1 махалля,356,11
+Yunusobod tumani,Iftixor mahallasi,Ифтихор махалля,198,11
+Yunusobod tumani,Yangitarnov mahallasi,Янгитарнов махалля,547,11
+Yunusobod tumani,Bog‘ibo‘ston mahallasi,Богибустон махалля,73,11
+Yunusobod tumani,Bodomzor mahallasi,Бодомзор махалля,71,11
+Yunusobod tumani,Bo‘zsuv mahallasi,Бузсув махалля,90,11
+Yunusobod tumani,Firdavsiy mahallasi,Фирдавсий махалля,154,11
+Yunusobod tumani,Mirzo Ulug‘bek mahallasi,Мирзо Улугбек махалля,294,11
+Yunusobod tumani,Qashqar mahallasi,Кашкар махалля,379,11
+Yunusobod tumani,Barhayot mahallasi,Бархаёт махалля,41,11

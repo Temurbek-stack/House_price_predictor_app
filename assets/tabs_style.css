@@ -1,0 +1,110 @@
+.tabs-wrapper {
+    border: 0.5px solid #e4e2e2;
+    padding: 1px;
+    background-color: white;
+    margin: 10px 0;
+    border-radius: 10px !important;
+
+}
+
+/* Container for the entire tabs */
+.custom-tabs {
+    border: 2px solid #000000 !important; /* Adds a border */
+    border-radius: 8px !important; /* Optional: Rounds the edges */
+    /*border: none !important;*/
+    background-color: white !important;
+    padding: 5px 10;
+    border-bottom: 2px solid transparent; 
+}
+
+/* General styling for all tabs */
+.custom-tab {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: gray;
+    background-color: white !important;
+    text-align: center;
+    padding: 5px;
+    border: none !important; /* Remove all borders */
+    border-bottom: 2px solid transparent; /* No border by default */
+}
+
+/* Styling for the selected tab */
+.custom-tab--selected {
+    font-weight: bold !important;
+    color: #003049 !important;
+    background-color: white !important;
+    position: relative;
+    border: none !important;
+}
+
+.custom-tab--selected::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;  /* This controls the length of the bottom border */
+    height: 2px;
+    background-color: #002855;
+}
+
+/* Remove default styling */
+/*.dash-spreadsheet-container {
+    border: none !important;
+}*/
+
+
+
+
+
+/* easy button sytling */
+.easy-button-button {
+    width: 60px !important;
+    height: 30px !important;
+    line-height: 30px !important;
+    font-size: 10px !important;
+}
+
+
+
+/* for text styling */
+@font-face {
+    font-family: 'TelegrafUltraBold';
+    src: url('/assets/PPTelegraf-UltraBold.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OpenSauceSans-regular';
+    src: url('/assets/OpenSauceSans-Regular.ttf') format('truetype');
+}
+
+.custom-telegraf {
+    /*font-family: 'TelegrafUltraBold', sans-serif;*/
+    font-family: 'OpenSauceSans-regular', sans-serif;
+    font-weight: 900 !important; 
+}
+
+.custom-opensauce {
+    font-family: 'OpenSauceSans-regular', sans-serif;
+}
+
+/* Fixed header styling */
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    z-index: 1000;
+    padding: 10px 20px;
+    margin: 0;
+    width: 100%;
+    border: none !important;
+}
+
+/* Adjust container padding to account for fixed header */
+.container {
+    padding-top: 80px;
+}
