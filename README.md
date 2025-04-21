@@ -6,6 +6,7 @@ An interactive, ML-powered web platform that allows users to **predict the marke
 ## 🌐 Live Demo
 
 🔗 [Try the live app here](https://house-price-predictor-app.onrender.com/)
+
 ---
 
 
