@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction Platform
 
-An interactive, ML-powered web platform that allows users to **predict the market price of residential real estate in Uzbekistan** based on property characteristics, location, and nearby infrastructure. It uses **machine learning models trained on real market data** to offer fast, affordable, and transparent appraisals.
+An interactive, ML-powered web platform that allows users to **predict the market price of residential real estate in Uzbekistan** based on property characteristics, location, and nearby infrastructure. It uses **machine learning models trained on real market data** to offer fast, affordable, and transparent price evaluations.
 
 ---
 
