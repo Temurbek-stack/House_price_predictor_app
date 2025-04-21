@@ -16,6 +16,8 @@ import joblib
 #import base64
 from pdf_generator import create_report
 from dash import ctx
+import os
+from flask import Flask
 
 ####################################################################################
 ####################################################################################
@@ -1566,5 +1568,10 @@ def update_form_link_home(price_range):
 
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
+
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
