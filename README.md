@@ -3,6 +3,12 @@
 An interactive, ML-powered web platform that allows users to **predict the market price of residential real estate in Uzbekistan** based on property characteristics, location, and nearby infrastructure. It uses **machine learning models trained on real market data** to offer fast, affordable, and transparent price evaluations.
 
 ---
+## 🌐 Live Demo
+
+🔗 [Try the live app here]([https://temurbek-shinyapps.shinyapps.io/trade-dashboard-uzbekistan/](https://house-price-predictor-app.onrender.com/))
+
+---
+
 
 ## 🚀 Key Features
 
