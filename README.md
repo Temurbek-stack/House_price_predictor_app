@@ -28,7 +28,7 @@ An interactive, ML-powered web platform that allows users to **predict the marke
 
 - `LightGBM` – core prediction model  
 - `scikit-learn` – for preprocessing and model integration  
-- `Optuna` – hyperparameter tuning  
+- `Optuna` – hyperparameter tuning using Bayesian Optimization  
 - `NumPy`, `pandas` – for data handling and feature engineering  
 - `joblib` – model persistence and loading  
 
