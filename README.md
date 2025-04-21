@@ -50,7 +50,7 @@ Prediction is based on:
 - 🔧 Renovation level and amenities (e.g., school, hospital, cafes nearby)  
 - 🌍 Location-specific features and surrounding infrastructure  
 
-> 📓 **Note**: The full modeling pipeline, including training, validation, and hyperparameter tuning, is available in the Jupyter notebook located in the [`model`](./model) folder.
+> 📓 **Note**: The full modeling pipeline, including training, validation, and hyperparameter tuning, is available in the Jupyter notebook located in the model folder.
 ---
 
 ## 🧹 Data Collection & Cleaning
